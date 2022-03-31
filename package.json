@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/brunoccr.lwc-l1f0rz4d",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve YAabFkmY41RL9uwoL5mv --open"
+  }
+}
